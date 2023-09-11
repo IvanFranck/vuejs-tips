@@ -1,7 +1,7 @@
 <script lang="ts" setup>
-import AppForm from './components/AppForm.vue';
+import TheTodo from './components/TheTodo.vue';
 </script>
 
 <template>
-  <AppForm />
+  <TheTodo />
 </template>
